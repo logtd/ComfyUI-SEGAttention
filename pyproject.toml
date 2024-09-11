@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-segattention"
+description = "Nodes to use [a/Smoothed Energy Guidance](https://github.com/SusungHong/SEG-SDXL) for ComfyUI."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/logtd/ComfyUI-SEGAttention"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "logtd"
+DisplayName = "ComfyUI-SEGAttention"
+Icon = ""
